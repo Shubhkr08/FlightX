@@ -1,6 +1,6 @@
 # FlightX <br>
 <img width="891" height="860" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/7af49779-8f25-49a7-bbec-e7d5b4158881" /><br>
-I made a custom Flight Controller which controls 5 Servos and 2 Escs which is based on an STM32 chip , it has 6 channel input available so it can be connected to a reciever and has a microSD Card, battery charger , IMU and Pressure Sensor . It has a USB-C for uploading code and charging purpose.
+I made a custom Flight Controller which controls 5 Servos and 2 Escs which is based on an STM32 chip , it has 6 channel input available so it can be connected to a receiver and has a microSD Card, battery charger , IMU and Pressure Sensor . It has a USB-C for uploading code and charging purpose.
 ## Features
 
 - Based on STM32 Chip
