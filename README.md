@@ -18,7 +18,7 @@ I made a custom Flight Controller which controls 5 Servos and 2 Escs which is ba
 
 ### 💰 Cost Summary
 
-- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$92.34	 USD**
+- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$92.37	 USD**
 - ## Schematic & PCB<br>
 - <img width="1154" height="747" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/f3a74469-9570-45d9-a2c2-38e57c88d071" /><br>
 <img width="657" height="749" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/9633cdbd-d723-4d6e-aa6b-f36cda9edaed" /><br>
